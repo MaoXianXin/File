@@ -1,0 +1,26 @@
+<annotation>
+  <folder>ok</folder>
+  <filename>JPG_20180522185632</filename>
+  <path>D:\Documents\Desktop\ok\JPG_20180522185632.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1280</width>
+    <height>720</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>1</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>552</xmin>
+      <ymin>158</ymin>
+      <xmax>743</xmax>
+      <ymax>432</ymax>
+    </bndbox>
+  </object>
+</annotation>
